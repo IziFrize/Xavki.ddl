@@ -7,7 +7,7 @@
 
 Le dépôt est notre espace de travail commun sur GitHub
 
-## Creation de compte
+## Création de compte
 
 Pour créer un compte GitHub vous aurez besoin d'un nom d'utilisateur, d'une adresse mail et d'un mot de passe.
 La page de création de compte est accessible directement via le lien suivant : https://github.com/join
