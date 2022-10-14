@@ -19,7 +19,10 @@ En tant que créateur du repository, vous avez l'option d'y ajouter des collabor
 ## Commandes usuelles
 
 `git clone` – Cette commande nous permet de créer une copie locale d'un repertoire en ligne.
-Voici un exemple : "git clone git@github.com:IziFrize/Xavki.ddl.git"
+
+### Exemple :
+
+`git clone git@github.com:IziFrize/Xavki.ddl.git"`
 
 `git status` - Cette commande nous montre l'état actuel de l’arbre de travail.
 
