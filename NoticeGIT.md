@@ -20,14 +20,13 @@ En tant que créateur du repository, vous avez l'option d'y ajouter des collabor
 
 `git clone` – Cette commande nous permet de créer une copie locale d'un repertoire en ligne.
 
-### Exemple :
-
-`git clone git@github.com:IziFrize/Xavki.ddl.git"`
+* Exemple : `git clone git@github.com:IziFrize/Xavki.ddl.git"`
 
 `git status` - Cette commande nous montre l'état actuel de l’arbre de travail.
 
 `git add` – Cette commande va ajouter le contenu de fichiers à l’index ce qui va nous permettre des créer des paquets à envoyer ensuite sur le dépôt.
-Voici un exemple : git add xavki.fichier
+
+* Exemple : `git add xavki.fichier`
 
 `git commit` – Cette commande nous permet d’enregistrer nos modifications dans le dépôt.
 
