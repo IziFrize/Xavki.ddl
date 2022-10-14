@@ -36,10 +36,9 @@ En tant que créateur du repository, vous avez l'option d'y ajouter des collabor
 
 GitLab est très similaire à GitHub dans son fonctionnement car en effet les deux utilisent Git. Cependant les deux ont tout de même des différences majeures.
 Les principales étant: 
-
-	-le fait que GitLab nous permet d'avoir un dépôt privé gratuitement alors que sur GitHub, c'est payant ou alors le dépôt devient OpenSource
-	-la communauté de GitHub est beaucoup plus grande et active ce qui lui permet d'avoir le monopole et de s'améliorer en continue
-	-GitLab nous permet d'exporter des fichiers au format CSV au contraire de GitHub qui ne le permet pasce qui peut être pratique pour certaines entreprises
+	- le fait que GitLab nous permet d'avoir un dépôt privé gratuitement alors que sur GitHub, c'est payant ou alors le dépôt devient OpenSource
+	- la communauté de GitHub est beaucoup plus grande et active ce qui lui permet d'avoir le monopole et de s'améliorer en continue
+	- GitLab nous permet d'exporter des fichiers au format CSV au contraire de GitHub qui ne le permet pasce qui peut être pratique pour certaines entreprises
 
 GitLab peut être aussi plus facile d'accès de premier abord car son interface graphique est plus compréhensible et développée.
 
