@@ -7,9 +7,14 @@
 
 Le dépôt est notre espace de travail commun sur GitHub
 
-creation compte- Pour cree un compte github vous aurez besoin d'un username,un mail et un mdp avec le lien si join https://github.com/join
+## Creation de compte
 
-ajout membre- Pour ajouter des gens à votre projet vous devez aller dans les parametre de votre projet puis dans acces → Collaborators puis dans la partie Manage Acess il y a un bouton add people avec le quelle vous pouvez rejouter des gens a votre projet en utilisant leur username ou leur adresse mail
+Pour créer un compte GitHub vous aurez besoin d'un nom d'utilisateur, d'une adresse mail et d'un mot de passe.
+La page de création de compte est accessible directement via le lien suivant : https://github.com/join
+
+## Ajout d'un membre
+
+En tant que créateur du repository, vous avez l'option d'y ajouter des collaborateurs. Pour ajouter des collaborateurs à votre projet, vous devez vous rendre dans les paramètres de votre projet puis dans `Accès → Collaborators` puis dans la partie `Manage Access`. Vous y trouverez un bouton labellé `Add People` avec lequel vous pouvez rajouter des utilisateurs de GitHub qui auront le droit de modifier votre projet en utilisant leur nom d'utilisateur ou leur adresse mail.
 
 git clone – Cette commande nous permet de créer une copie locale d'un repertoire en ligne.
 Voici un exemple : "git clone git@github.com:IziFrize/Xavki.ddl.git"
