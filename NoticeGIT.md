@@ -16,7 +16,7 @@ La page de création de compte est accessible directement via le lien suivant : 
 
 En tant que créateur du repository, vous avez l'option d'y ajouter des collaborateurs. Pour ajouter des collaborateurs à votre projet, vous devez vous rendre dans les paramètres de votre projet puis dans `Accès → Collaborators` puis dans la partie `Manage Access`. Vous y trouverez un bouton labellé `Add People` avec lequel vous pouvez rajouter des utilisateurs de GitHub qui auront le droit de modifier votre projet en utilisant leur nom d'utilisateur ou leur adresse mail.
 
-##Commandes usuelles
+## Commandes usuelles
 
 `git clone` – Cette commande nous permet de créer une copie locale d'un repertoire en ligne.
 Voici un exemple : "git clone git@github.com:IziFrize/Xavki.ddl.git"
