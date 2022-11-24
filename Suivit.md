@@ -8,7 +8,7 @@
   
 ## 24 novembre 2022:
 
-  -Sacha : Rédaction des méthodes agiles, >
-  -Etienne : FInition DocumentationGit, >
-  -Grégoire : Création sous-répertoires et organisation Git, >
+  -Sacha : Rédaction des méthodes agiles, -m
+  -Etienne : FInition DocumentationGit, -m
+  -Grégoire : Création sous-répertoires et organisation Git, -m
   -Alban : FInition du Suivi.md, CahierDePaillase.md et mise en forme des différents md.
