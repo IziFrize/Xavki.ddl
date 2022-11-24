@@ -4,4 +4,4 @@
   -Sacha : Créer les répertoires et s'occuper du Git en général,    
   -Etienne : Absent,  
   -Grégoire : Rédaction du README.md,  
-  -Alban : Rédaction du Suivit.md, CahierDePaillase.md et mise en forme des différents md.  
+  -Alban : Rédaction du Suivi.md, CahierDePaillase.md et mise en forme des différents md.  
