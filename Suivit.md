@@ -5,3 +5,7 @@
   -Etienne : Absent,  
   -Grégoire : Rédaction du README.md,  
   -Alban : Rédaction du Suivi.md, CahierDePaillase.md et mise en forme des différents md.  
+  
+## 24 novembre 2022:
+
+  
