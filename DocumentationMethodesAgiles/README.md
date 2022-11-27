@@ -1,5 +1,7 @@
 Répertoire DocumentationMethodesAgiles :   
-README.md :  
+
+README.md :    
+
 `Pourquoi l’agilité`: Permet de mieux piloter un projet, de bien se partager la travail, d’éviter les erreurs car les besoin des utilisateurs sont mieux compris et donc de gagner du temps.    
  
 `Manifeste`: Agile document qui développe la méthode « agile » c’est à dire expliquer ses avantages et défauts mais aussi son fonctionnement.   
