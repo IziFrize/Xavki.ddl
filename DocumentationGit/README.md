@@ -30,7 +30,13 @@ En tant que créateur du repository, vous avez l'option d'y ajouter des collabor
 
 `git push` – Cette commande permet d'envoyer le projet local que vous avez modifié directement sur le repository git en ligne.
 
-`git pull` – Cette commande rapatrie et intègre le contenu du repository en ligne dans le clone local.
+`git pull` – Cette commande rapatrie et intègre le contenu du repository en ligne dans le clone local.  
+
+`git merge` - Cette commande sert à fusionner deux branches et à pousser le résultat dans la branche principale.  
+
+`git config` - Cette commande sert à définir les paramètres de configuration qu'on va utiliser.  
+
+`git checkout` - Cette commade met à jour les fichiers dans l’arbre de travail pour correspondre à la version dans l’index ou dans l’arbre spécifié.  
 
 # Qu'est-ce que GitLab ?
 
