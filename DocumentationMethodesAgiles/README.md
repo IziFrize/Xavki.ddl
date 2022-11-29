@@ -1,4 +1,4 @@
-`Pourquoi l’agilité`: Permet de mieux piloter un projet, de bien se partager la travail, d’éviter les erreurs car les besoin des utilisateurs sont mieux compris et donc de gagner du temps.    
+`Pourquoi l’agilité`: Permet de mieux piloter un projet, de bien se partager la travail, d’éviter les erreurs car les besoin des utilisateurs sont mieux compris et donc de gagner du temps.
  
 `Manifeste agile`: Document qui développe la méthode « agile » c'est à dire expliquer ses avantages et défauts mais aussi son fonctionnement.   
 
