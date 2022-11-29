@@ -15,31 +15,45 @@ En tant que créateur du repository, vous avez l'option d'y ajouter des collabor
 
 ## Commandes usuelles
 
-`git clone` – Cette commande nous permet de créer une copie locale d'un repertoire en ligne.
+`git clone` – Cette commande nous permet de créer une copie locale d'un repertoire en ligne.  
 
-* Exemple : `git clone git@github.com:IziFrize/Xavki.ddl.git"`
+* Exemple : `git clone git@github.com:IziFrize/Xavki.ddl.git"`  
 
-`git status` - Cette commande nous montre l'état actuel de l’arbre de travail.
+`git status` - Cette commande nous montre l'état actuel de l’arbre de travail.  
 
-`git add` – Cette commande va ajouter le contenu de fichiers à l’index ce qui va nous permettre des créer des paquets à envoyer ensuite sur le dépôt.
+* Exemple : `git status`  
 
-* Exemple : `git add xavki.fichier`
+`git add` – Cette commande va ajouter le contenu de fichiers à l’index ce qui va nous permettre des créer des paquets à envoyer ensuite sur le dépôt.  
 
-`git commit` – Cette commande nous permet d’enregistrer nos modifications dans le dépôt.
+* Exemple : `git add xavki.fichier`  
 
-`git push` – Cette commande permet d'envoyer le projet local que vous avez modifié directement sur le repository git en ligne.
+`git commit` – Cette commande nous permet d’enregistrer nos modifications dans le dépôt.  
+
+* Exemple : `git commit -a`  
+
+`git push` – Cette commande permet d'envoyer le projet local que vous avez modifié directement sur le repository git en ligne.  
+
+* Exemple : `git push`  
 
 `git pull` – Cette commande rapatrie et intègre le contenu du repository en ligne dans le clone local.  
 
+* Exemple : `git pull`  
+
 `git merge` - Cette commande sert à fusionner deux branches et à pousser le résultat dans la branche principale.  
+
+* Exemple : `git merge`  
 
 `git config` - Cette commande sert à définir les paramètres de configuration qu'on va utiliser.  
 
-`git checkout` - Cette commade met à jour les fichiers dans l’arbre de travail pour correspondre à la version dans l’index ou dans l’arbre spécifié. 
+* Exemple : `git config --global user.name "Your Name"`  
+
+`git checkout` - Cette commande met à jour les fichiers dans l’arbre de travail pour correspondre à la version dans l’index ou dans l’arbre spécifié.  
+
+* Exemple : `git checkout main`
 
 ## Staging  
 
-![alt text](https://i.stack.imgur.com/qPcFI.png)  
+![alt text](https://i.stack.imgur.com/qPcFI.png)
 
 # Qu'est-ce que GitLab ?
 
@@ -51,5 +65,3 @@ Les principales étant:
 - GitLab nous permet d'exporter des fichiers au format CSV au contraire de GitHub qui ne le permet pasce qui peut être pratique pour certaines entreprises
 
 GitLab peut être aussi plus facile d'accès de premier abord car son interface graphique est plus compréhensible et développée.
-
-
