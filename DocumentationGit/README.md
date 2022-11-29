@@ -1,8 +1,7 @@
 # Notice GitHub - Qu'est-ce que GitHub ?
 
 
-- Github est un outil collaboratif permettant à un groupe de travailler en simultané et à distance sur un même projet.
-
+- Github est un site internet fondé par Linux Torvalds en 2005 permettant de partager des projets informatiques et de pouvoir les modifiers simultanément partout dans le monde. Il destiné à un publique s'interessant aux langages informatiques et voulant le partager. Il est communément utilisé dans des équipes afin s'implifier le partage des données, tout est envoyé instantanement sans avoir besoin d'être cote à cote. De plus, il permet de travailler avec plusieurs personnes pour un même projet.
 Le dépôt est notre espace de travail commun sur GitHub
 
 ## Création de compte
