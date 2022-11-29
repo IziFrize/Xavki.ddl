@@ -35,7 +35,11 @@ En tant que créateur du repository, vous avez l'option d'y ajouter des collabor
 
 `git config` - Cette commande sert à définir les paramètres de configuration qu'on va utiliser.  
 
-`git checkout` - Cette commade met à jour les fichiers dans l’arbre de travail pour correspondre à la version dans l’index ou dans l’arbre spécifié.  
+`git checkout` - Cette commade met à jour les fichiers dans l’arbre de travail pour correspondre à la version dans l’index ou dans l’arbre spécifié. 
+
+## Staging  
+
+![alt text](https://i.stack.imgur.com/qPcFI.png)  
 
 # Qu'est-ce que GitLab ?
 
